@@ -17,6 +17,6 @@
   * Print the html
   */
   echo themestore_generate_menu_from_items( $items );
-?<
+?>
  
 </div>
