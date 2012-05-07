@@ -20,3 +20,8 @@
 ?>
  
 </div>
+
+/*
+* Note - you still need to put your loop and any other code into this page. The
+* best thing to do is to copy the php above and past into your current template.
+*/
